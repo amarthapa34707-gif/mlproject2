@@ -5,6 +5,8 @@ from src.mlproject2.logger import logging
 from src.mlproject2.exception import CustomException
 import pandas as pd
 from dotenv import load_dotenv
+import pickle 
+import numpy as np
 
 load_dotenv()
 
